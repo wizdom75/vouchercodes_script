@@ -6,5 +6,4 @@
  * and open the template in the editor.
  */
 
-define (FILEPATH, '/var/www/vhosts/tafuma.co.uk/httpdocs/');
-define (PATH, '	/var/www/vhosts/tafuma.co.uk/httpdocs/');
+define (FILEPATH, '/var/www/path/to/httpdocs/');
